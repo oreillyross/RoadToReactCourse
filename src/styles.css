@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+p {
+  color: blue;
+}
+
+div {
+  padding: .5em;
+}
